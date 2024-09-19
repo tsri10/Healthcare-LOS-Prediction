@@ -1,3 +1,5 @@
+Hospital Length of Stay (LOS) Prediction Using Machine Learning
+
 Overview:
   
   This project predicts the length of stay (LOS) for patients in hospitals based on various hospital, patient, and treatment features. The dataset consists of hospital-level, patient-level, and admission details, and the model helps hospitals improve resource allocation and patient care.
