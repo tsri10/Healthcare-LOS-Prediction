@@ -1,4 +1,4 @@
-Hospital Length of Stay (LOS) Prediction Using Machine Learning
+## Healthcare Data Analysis: Predicting Hospital Stay Duration with Machine Learning
 
 Overview:
   
